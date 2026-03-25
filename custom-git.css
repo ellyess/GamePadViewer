@@ -1,6 +1,2 @@
-.custom {
-  opacity: 0.25 !important;
-  filter: hue-rotate(180deg) !important;
-}
 @import url(./git-variables.css);
 @import url(./custom.css);

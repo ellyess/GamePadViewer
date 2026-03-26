@@ -1,12 +1,12 @@
 :root {
-    --controller-background-image: url("https://ellyess.github.io/GamePadViewer/images/base.svg");
-    --controller-disconnected-image: url("https://ellyess.github.io/GamePadViewer/images/disconnected.svg");
-    --controller-touchpad-image: url("https://ellyess.github.io/GamePadViewer/images/logo.png");
-    --controller-trigger-image: url("https://ellyess.github.io/GamePadViewer/images/trigger.svg");
-    --controller-bumper-image: url("https://ellyess.github.io/GamePadViewer/images/bumper.svg");
-    --controller-meta-pressed-image: url("https://ellyess.github.io/GamePadViewer/images/meta.svg");
-    --controller-start-image: url("https://ellyess.github.io/GamePadViewer/images/start-select.svg");
-    --controller-button-image: url("https://ellyess.github.io/GamePadViewer/images/abxy.svg");
-    --controller-stick-image: url("https://ellyess.github.io/GamePadViewer/images/stick.svg");
-    --controller-face-image: url("https://ellyess.github.io/GamePadViewer/images/dpad.svg");
+    --controller-background-image: url("https://ellyess.github.io/GamePadViewer/images/base.svg?v=2");
+    --controller-disconnected-image: url("https://ellyess.github.io/GamePadViewer/images/disconnected.svg?v=2");
+    --controller-touchpad-image: url("https://ellyess.github.io/GamePadViewer/images/logo.png?v=2");
+    --controller-trigger-image: url("https://ellyess.github.io/GamePadViewer/images/trigger.svg?v=2");
+    --controller-bumper-image: url("https://ellyess.github.io/GamePadViewer/images/bumper.svg?v=2");
+    --controller-meta-pressed-image: url("https://ellyess.github.io/GamePadViewer/images/meta.svg?v=2");
+    --controller-start-image: url("https://ellyess.github.io/GamePadViewer/images/start-select.svg?v=2");
+    --controller-button-image: url("https://ellyess.github.io/GamePadViewer/images/abxy.svg?v=2");
+    --controller-stick-image: url("https://ellyess.github.io/GamePadViewer/images/stick.svg?v=2");
+    --controller-face-image: url("https://ellyess.github.io/GamePadViewer/images/dpad.svg?v=2");
 }

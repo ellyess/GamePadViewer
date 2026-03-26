@@ -267,3 +267,17 @@
 .custom .half {
     margin-top: -315px;
 }
+
+/* slight overall cyber glow */
+.controller.custom {
+  filter:
+    drop-shadow(0 0 4px rgba(0, 247, 255, 0.16))
+    drop-shadow(0 0 10px rgba(0, 247, 255, 0.10));
+}
+
+/* a little extra glow on pressed inputs */
+.controller.custom .pressed {
+  filter:
+    drop-shadow(0 0 3px rgba(0, 247, 255, 0.28))
+    drop-shadow(0 0 8px rgba(0, 247, 255, 0.16));
+}
